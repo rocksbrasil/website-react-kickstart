@@ -4,7 +4,7 @@ Um **framework inicial** para desenvolvimento de websites frontend **componentiz
 
 ## 🔥 Por que usar?
 ✅ Sem dependências pesadas  
-✅ Sem Webpack, ou Node.js  
+✅ Sem Webpack ou Node.js  
 ✅ Simples, modular e fácil de entender  
 ✅ Perfeito para rodar diretamente no Apache ou qualquer servidor estático  
 
@@ -26,7 +26,6 @@ website-react-kickstart/
 2. Coloque a pasta no seu servidor estático (CDN ou Apache) ou abra o `index.html` diretamente no navegador.
 3. Edite os componentes dentro da pasta `components/` para criar seu site.
 
-## ⚡ Exemplo de Código
 
 ## ❤️ Agradecimentos
 Agradecimentos especiais a **@amadeonSilveira** e **@leo-BM** pelo suporte e inspiração!
